@@ -1,0 +1,16 @@
+,BENIGN,Bot,DDoS,DoS GoldenEye,DoS Hulk,DoS Slowhttptest,DoS slowloris,FTP-Patator,Heartbleed,Infiltration,PortScan,SSH-Patator,Web Attack - Brute Force,Web Attack - Sql Injection,Web Attack - XSS
+BENIGN,9906,34,3,11,18,4,5,2,0,5,5,1,1,2,3
+Bot,8,382,0,0,0,0,0,0,0,0,0,0,0,0,0
+DDoS,4,0,9994,1,0,0,0,0,0,1,0,0,0,0,0
+DoS GoldenEye,9,0,0,2026,6,4,0,0,0,0,0,0,1,6,5
+DoS Hulk,12,0,3,5,9975,0,0,0,0,0,3,0,0,0,2
+DoS Slowhttptest,1,0,0,1,0,1038,5,0,0,0,0,1,0,0,0
+DoS slowloris,4,0,0,0,0,6,1064,1,0,0,0,1,1,0,0
+FTP-Patator,0,0,0,0,0,0,0,1182,0,0,0,2,0,1,1
+Heartbleed,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+Infiltration,2,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+PortScan,1,0,0,0,1,0,1,0,0,0,9996,1,0,0,0
+SSH-Patator,3,0,0,1,0,0,0,1,0,0,0,636,0,1,2
+Web Attack - Brute Force,0,0,0,0,0,0,1,0,0,0,0,1,190,2,100
+Web Attack - Sql Injection,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0
+Web Attack - XSS,1,0,0,0,0,0,0,0,0,0,0,0,63,0,67

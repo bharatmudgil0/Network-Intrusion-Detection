@@ -1,0 +1,51 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Python cache
+.pytest_cache/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# CICIDS2017 datasets and generated preprocessing files
+dataset/raw/
+dataset/processed/
+
+# Live network capture and generated files
+live_capture/captures/
+live_capture/flows/
+live_capture/predicted/
+live_capture/processed/
+live_capture/results/
+
+# Model files: retain only the final model bundle
+models/*.pkl
+!models/final_nids_model.pkl
+
+# Broken Git metadata backup
+.git_broken_backup
+
+# External executable tools
+live_capture/tools/*.exe
+
+# Generated model prediction files
+results/*_predictions.csv

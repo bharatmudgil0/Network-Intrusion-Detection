@@ -1,0 +1,6 @@
+Model,Accuracy (%),Precision (%),Recall (%),Weighted F1 (%),Macro F1 (%)
+Random Forest,99.38,99.45,99.38,99.4,88.85
+Decision Tree,99.21,99.28,99.21,99.23,85.87
+KNN,99.12,99.26,99.12,99.17,82.56
+Logistic Regression,95.7,96.58,95.7,95.98,72.95
+SVM,94.07,95.41,94.07,94.55,68.89
